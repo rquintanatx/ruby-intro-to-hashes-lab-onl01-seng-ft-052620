@@ -68,4 +68,4 @@ def monopoly_with_fourth_tier
   binding.pry
 end
 
-monopoly
+monopoly_with_fourth_tier
