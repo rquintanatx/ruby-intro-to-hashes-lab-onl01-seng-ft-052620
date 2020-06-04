@@ -65,6 +65,7 @@ def monopoly_with_fourth_tier
   rail_names[:b_and_o_railroad]["mortage_value"] = "$400"
   rail_names[:shortline]["mortage_value"] = '$800'
   monopoly
+  binding.pry
 end
 
 monopoly_with_fourth_tier
