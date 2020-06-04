@@ -48,8 +48,8 @@ def monopoly_with_fourth_tier
   monopoly = {}
   monopoly[:railroads] = {}
   monopoly[:railroads][:pieces] = 4
-  monopoly[:railroads][:names] = {}
   monopoly[:railroads][:rent_in_dollars] = {}
+  monopoly[:railroads][:names] = {}
   rent_num = monopoly[:railroads][:rent_in_dollars]
   rail_names = monopoly[:railroads][:names]
   rent_num[:one_piece_owned] = 25
