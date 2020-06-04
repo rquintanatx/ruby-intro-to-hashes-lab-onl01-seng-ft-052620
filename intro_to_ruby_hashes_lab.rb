@@ -60,10 +60,10 @@ def monopoly_with_fourth_tier
   rail_names[:pennsylvania_railroad] = {}
   rail_names[:b_and_o_railroad] = {}
   rail_names[:shortline] = {}
-  rail_names[:reading_railroad]["mortage_value"] = '$100'
-  rail_names[:pennsylvania_railroad]["mortage_value"] = '$200'
-  rail_names[:b_and_o_railroad]["mortage_value"] = "$400"
-  rail_names[:shortline]["mortage_value"] = '$800'
+  rail_names[:reading_railroad]["mortgage_value"] = '$100'
+  rail_names[:pennsylvania_railroad]["mortgage_value"] = '$200'
+  rail_names[:b_and_o_railroad]["mortgage_value"] = "$400"
+  rail_names[:shortline]["mortgage_value"] = '$800'
   monopoly
 end
 
